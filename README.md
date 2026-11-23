@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
