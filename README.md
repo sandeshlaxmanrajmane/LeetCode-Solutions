@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -66,5 +67,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
