@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [2000-reverse-prefix-of-word](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Linked List
 |  |
 | ------- |
@@ -34,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [2000-reverse-prefix-of-word](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
