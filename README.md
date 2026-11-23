@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
