@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/sandeshlaxmanrajmane/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
